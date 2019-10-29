@@ -1,7 +1,7 @@
 <?php 
 
-use Person\Man;
-use Animal\Dog;
+use Yangon\Person\Man;
+use Yangon\Animal\Dog;
 
 /* include 'man.php';
 include 'dog.php'; */

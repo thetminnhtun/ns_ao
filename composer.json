@@ -1,8 +1,7 @@
 {
     "autoload": {
         "psr-4": {
-            "Animal\\": "animal/",
-            "Person\\": "person/"
+            "Yangon\\": "yangon/"
         }
     }
 }

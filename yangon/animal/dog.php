@@ -1,6 +1,6 @@
 <?php 
 
-namespace Animal;
+namespace Yangon\Animal;
 
 class Dog 
 {

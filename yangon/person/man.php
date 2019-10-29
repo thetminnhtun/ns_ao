@@ -1,6 +1,6 @@
 <?php 
 
-namespace Person;
+namespace Yangon\Person;
 
 class Man 
 {
